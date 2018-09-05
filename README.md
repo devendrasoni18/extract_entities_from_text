@@ -5,6 +5,7 @@ Using NLP, extracting entities from given text such as company names, dates, per
 I have used Stanford pre-trained NER model of class 7 for named entity recognization.
 
 To download above pre-trained model:
+
 	1. Create new directory for corpus in your home directory:
 		mkdir /home/NLP
 		cd /home/NLP/
